@@ -1,6 +1,7 @@
 ---
 name: Bug Report
-description: Report a bug to help improve the template
+about: Report a problem or unexpected behavior
+description: Report a bug to help improve the react-project
 labels: bug
 ---
 
