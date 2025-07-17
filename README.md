@@ -37,7 +37,7 @@ This is a react project build with template repository by Alexandrbig1
 ## Project Structure
 
 ```bash
-template-repo/                     # GitHub template-repo
+react-project/                     # GitHub react-project
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── bug_report.md
