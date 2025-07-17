@@ -1,6 +1,7 @@
 ---
 name: Feature Request
-description: Suggest an idea for this template
+about: Suggest a new idea or improvement for this react-project
+description: Suggest an idea for this react-project
 labels: enhancement
 ---
 
